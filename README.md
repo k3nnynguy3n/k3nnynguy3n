@@ -8,8 +8,8 @@ Skills: C++ / PYTHON / HTML5 / CSS / JAVASCRIPT / ASSEMBLY
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,cpp,vscode,bootstrap,github,figma)](https://skillicons.dev)
 
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: kennydec22@gmail.com 
+- 🌱 I’m currently learning more coding languages! 
+- 📫 How to reach me: kennyphuocnguyen1@gmail.com 
 - ⚡ Fun fact: I like to ski! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3nnynguy3n)](https://github.com/anuraghazra/github-readme-stats)
