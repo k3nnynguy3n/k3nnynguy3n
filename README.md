@@ -1,7 +1,7 @@
 # Hi, I'm Kenny 👋
 🧑🏻‍💻 Aspiring Software Engineer! </br> 
 📚 I am currently studying at Seattle University - Computer Science w/ Minor in Finance </br>
-💭 Constantly trying to learn more! </br>
+💭 Constantly trying to learn more!
 
 # 💻 Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
