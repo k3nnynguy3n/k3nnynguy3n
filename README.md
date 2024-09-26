@@ -1,4 +1,4 @@
-# Hi, I'm Kenny 👋
+# 👋 Hi, I'm Kenny 
 🧑🏻‍💻 Aspiring Software Engineer! </br> 
 📚 I am currently studying at Seattle University - Computer Science w/ Minor in Finance </br>
 💭 Constantly trying to learn more!
