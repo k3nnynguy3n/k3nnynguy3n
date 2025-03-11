@@ -1,7 +1,17 @@
-# Hi, I'm Kenny 👋 
-🧑🏻‍💻 Aspiring Software Engineer! </br> 
-📚 I am currently studying at Seattle University - Computer Science w/ Minor in Finance </br>
-💭 Constantly trying to learn more!
+# Hi, I'm Kenny 👋
+
+🧑🏻‍💻 **Aspiring Software Engineer!**  
+📚 Currently studying Computer Science (with a Minor in Finance) at Seattle University.  
+💭 Constantly trying to learn more!  
+🤝 Feel free to explore my projects and connect with me!
+
+
+## Interests & Hobbies 🎿⛷️
+In my free time, I love to ski. My home mountain is **Crystal Mountain** 🏔️, and I'm currently exploring ways to add more style to my skiing technique 😎.
+
+## What I'm Currently Working On! - Seattle Crime Dashboard 📊
+I'm developing an interactive crime dashboard that visualizes crime data across the city. The goal is to provide valuable insights into crime trends and patterns, helping communities stay informed and make data-driven decisions 🔍.
+
 
 # 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,8 +31,6 @@
 # 📱 Get in Touch! 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennynguyen26/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennyphuocnguyen1@gmail.com)
-
-
 
 <!--
 **k3nnynguy3n/k3nnynguy3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
